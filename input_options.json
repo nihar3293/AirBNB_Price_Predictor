@@ -1,0 +1,38 @@
+{
+    "NUMBER_OF_LISTINGS": [
+      1.0,
+      327.0
+    ],
+    "NEIGHBOURHOOD_ID": [
+      0.0,
+      216.0
+    ],
+    "NEIGHBOURHOOD_GROUP": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ROOM_TYPE": [
+      0,
+      1,
+      2
+    ],
+    "MIN_NIGHTS": [
+      1.0,
+      1250.0
+    ],
+    "NUMBER_OF_REVIEWS": [
+      1.0,
+      629.0
+    ],
+    "REVIEWS_PER_MONTH": [
+      0.01,
+      58.5
+    ],
+    "PER_YEAR_AVAILABILITY": [
+      0.0,
+      365.0
+    ]
+  }
